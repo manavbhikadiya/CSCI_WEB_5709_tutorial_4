@@ -1,0 +1,28 @@
+.profileContainer {
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.searchcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.form-inline {
+    display: flex;
+    flex-direction: row;
+}
+
+.form-inline input {
+    margin-right: 10px;
+}
+
+.row {
+    margin-top: 50px;
+}

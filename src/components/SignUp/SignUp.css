@@ -1,0 +1,22 @@
+.lockicon{
+    background-color: "#2C3639";
+}
+
+p {
+    margin: 0;
+}
+
+.title {
+    color: #3F4E4F;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.subtitle {
+    color: #A27B5C;
+    font-size: 14px;
+}
+
+.inputField {
+    border-radius: 20px;
+}

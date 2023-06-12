@@ -1,0 +1,59 @@
+.profileCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.imageContainer {
+    width: 100%;
+    height: 230px;
+    border-radius: 20px;
+}
+
+.contentContainer {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.contentContainer h6 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.contentContainer p {
+    font-size:  14px;
+    margin-top: 8px;
+}
+
+.balanceContainer {
+    width: 90%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.balanceContainer p {
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+
+.btnContainer {
+    background-color: maroon;
+    color: #fff;
+}
+
+.btnContainer:hover {
+    border: 1px solid maroon;
+    color: maroon;
+}
