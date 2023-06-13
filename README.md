@@ -4,11 +4,11 @@
 
 ## Tutorial Links
 
-Tutorial_3 link live: https://main--golden-nougat-b20c2d.netlify.app/
+Tutorial_4 link live: https://main--unique-queijadas-af7944.netlify.app/
 
-Tutorial_3 Gitlab Link: https://git.cs.dal.ca/manavbhai/csci_5709_tutorials/-/tree/tutorial_3?ref_type=heads
+Tutorial_4 Gitlab Link: https://git.cs.dal.ca/manavbhai/csci_5709_tutorials/-/tree/tutorial_4?ref_type=heads
 
-Tutorial_3 Github Link: https://github.com/manavbhikadiya/CSCI_WEB_5709_tutorial_3
+Tutorial_4 Github Link: https://github.com/manavbhikadiya/CSCI_WEB_5709_tutorial_4
 
 ## References: 
 

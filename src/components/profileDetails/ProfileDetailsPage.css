@@ -140,3 +140,27 @@ p{
     flex-direction: row;
     margin-top: 30px;
 }
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.tag {
+    background-color: maroon;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 2px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.tagsContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
